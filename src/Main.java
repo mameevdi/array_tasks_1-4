@@ -100,7 +100,6 @@ public class Main {
 
             if (integerArray[i]%2 != 0){
                 integerArray[i]=integerArray[i]+1;
-
             }
         }
         System.out.println(Arrays.toString(integerArray));
